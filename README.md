@@ -55,16 +55,6 @@
 <!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
-<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> 
-</picture>
-
-
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -82,39 +72,6 @@
 
 
 ### 🏆 Trophy: Hackerrank Profile Trophy
-
----
-
-
-<!-- Belarus - My Home-->
-
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [114.2,30.5],
-             [113.45,23.02]
-         ]
-       ]
-     }
-   }
- ]
-}
-
- ```
-
-
-
 
 ---
 
