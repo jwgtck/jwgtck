@@ -38,6 +38,10 @@
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
                                                                                                                
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/jwgtck/count.svg">  
 
 
 ![](assets/Bottom_down.svg)
