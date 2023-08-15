@@ -68,7 +68,11 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=jwgtck&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jwgtck&theme=radical&layout=compact) |
+| ![jwgtck's github stats](https://github-readme-stats.vercel.app/api?username=jwgtck&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jwgtck&theme=radical&layout=compact) |
+
+
+
+
 
 ### 🏆 Trophy: Github Profile Trophy
 <p align="center"> 
