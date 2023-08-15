@@ -64,6 +64,10 @@ counting of visitors to this page in this section started from Aug 2, 2023
 <a href="https://info.flagcounter.com/J2pd"><img src="https://s01.flagcounter.com/count2/J2pd/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jwgtck/jwgtck&type=Date)](https://star-history.com/#jwgtck/jwgtck&Date)
+
 
 ![](https://count.getloli.com/get/@jwgtck.github.readme)
 </br>
@@ -74,3 +78,4 @@ counting of visitors to this page in this section started from Aug 2, 2023
 
 
 ![](assets/Bottom_down.svg)
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
