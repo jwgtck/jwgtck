@@ -1,7 +1,13 @@
+
+
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
+<div align="center">
+<!-- knock code pictures 敲代码的图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+</div>
 
 <!--   my-icons -->
 <p align="center">
@@ -47,21 +53,74 @@
 <!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> 
+</picture>
+
+
+
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=jwgtck&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jwgtck&theme=radical&layout=compact) |
 
+### 🏆 Trophy: Github Profile Trophy
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwgtck" alt="jwgtck" /></a>
+</p>
 
+
+
+### 🏆 Trophy: Hackerrank Profile Trophy
+
+---
+
+
+<!-- Belarus - My Home-->
+
+ ```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [114.2,30.5],
+             [113.45,23.02]
+         ]
+       ]
+     }
+   }
+ ]
+}
+
+ ```
+
+
+
+
+---
+
+<p align="center"> 
+<img src="./src/credly0.png" alt="ibm" width="100%">
+<img src="./src/credly1.png" alt="ibm" width="100%">
+<img src="./src/credly2.png" alt="ibm" width="100%">
+</p>
+
+---
                                                                                                                
 #### Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/jwgtck/count.svg">  
-
-
-counting of visitors to this page in this section started from Aug 2, 2023 
-
-<a href="https://info.flagcounter.com/J2pd"><img src="https://s01.flagcounter.com/count2/J2pd/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 ### Star History
