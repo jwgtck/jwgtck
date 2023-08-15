@@ -1,11 +1,18 @@
-
-
-
-![](assets/Bottom_up.svg)
-
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/jwgtck/jwgtck?color=blue"></a>
+    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/jwgtck/jwgtck.svg?logo=github"></a>
+    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/jwgtck/jwgtck.svg?color=blue&logo=github"></a>
+  
+</p>
+
+
 
 
 <!--   my-ticker -->    
@@ -44,13 +51,26 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=jwgtck&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jwgtck&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jwgtck"></img>
+
                                                                                                                
 #### Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/jwgtck/count.svg">  
 
+
+counting of visitors to this page in this section started from Aug 2, 2023 
+
+<a href="https://info.flagcounter.com/J2pd"><img src="https://s01.flagcounter.com/count2/J2pd/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+
+![](https://count.getloli.com/get/@jwgtck.github.readme)
+</br>
+
+</p>
+
+<!-- - My Company-->
 
 
 ![](assets/Bottom_down.svg)
