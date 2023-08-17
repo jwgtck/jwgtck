@@ -57,6 +57,8 @@
 
 ### 📈 GitHub Activity Graph:
 
+[![jwgtck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jwgtck&bg_color=0&color=fe438e&line=fe438e&point=f8d846&area=true&hide_border=true)](https://github.com/jwgtck)
+
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr border="0">
     <td border="0">
