@@ -148,6 +148,10 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=jwgtck/jwgtck&type=Date)](https://star-history.com/#jwgtck/jwgtck&Date)
 
+## 🎵 Currently Playing
+
+![Spotify](https://novatorem-psi.vercel.app/api/spotify)
+
 
 ![](https://count.getloli.com/get/@jwgtck.github.readme)
 </br>
