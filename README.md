@@ -78,6 +78,16 @@
     </td>
   </tr>
 </table>
+ 
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr border="0">
+    <td border="0">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwgtck&theme=radical&layout=compact&bg_color=00000000&text_color=44a863&hide_border=true" width="550" height=200 > 
+     </a>
+    </td>
+  </tr>
+</table>
+   
 
 <table align="center">
   <tr>
