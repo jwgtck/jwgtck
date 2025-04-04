@@ -118,25 +118,6 @@
 
 
 
-
-### 🏆 Trophy: Github Profile Trophy
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwgtck" alt="jwgtck" /></a>
-</p>
-
-
-
-### 🏆 Trophy: Hackerrank Profile Trophy
-
----
-
-<p align="center"> 
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-</p>
-
----
                                                                                                                
 #### Thanks for visiting :heart:
 
