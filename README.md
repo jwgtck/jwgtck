@@ -55,65 +55,6 @@
 
 <!--   GitHub stats graph -->
 
-### 📈 GitHub Activity Graph:
-
-[![jwgtck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jwgtck&bg_color=0&color=fe438e&line=fe438e&point=f8d846&area=true&hide_border=true)](https://github.com/jwgtck)
-
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr border="0">
-    <td border="0">
-      <a href="https://github.com/jwgtck">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwgtck&theme=transparent&show_icons=true&hide_border=true&text_bold=true&card_width=200&text_color=727272&icon_color=959da5" /> 
-      </a> 
-    </td>
-    <td>
-      <a href="https://github.com/jwgtck">  
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=darko5r&theme=tokyonight_duo&background=FFFFFF00&hide_border=true&text_bold=true&card_width=100"/> 
-      </a>  
-    </td>
-    <td>
-      <a href="https://github.com/jwgtck/jwgtck.github.io">  
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darko5r&repo=jwgtck.github.io&theme=transparent&hide_border=true&text_bold=true&text_color=727272&icon_color=959da5" /> 
-      </a>
-    </td>
-  </tr>
-</table>
- 
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr border="0">
-    <td border="0">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwgtck&theme=radical&layout=compact&bg_color=00000000&text_color=44a863&hide_border=true" width="550" height=200 > 
-     </a>
-    </td>
-  </tr>
-</table>
-   
-
-<table align="center">
-  <tr>
-    <td>
-     <a href="https://github.com/jwgtck"> 
-     <img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/jwgtck/jwgtck/main/.github/templates/metrics_lang.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-<table align="center">
-  <tr>
-    <td align="center">
-        <img alt="" width="350" src="https://raw.githubusercontent.com/jwgtck/jwgtck/main/.github/templates/metrics_base.svg" alt="🦑"></img>
-    </td>
-    <td align="center">
-        <img alt="" width="350" src="https://raw.githubusercontent.com/jwgtck/jwgtck/main/.github/templates/metrics_habits.svg" alt="🦑"></img>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary>
 
 
 
